@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 357
-EXTRAVERSION = -openela+KernelSU-Next
+EXTRAVERSION = -0xSoul+KernelSU-Next+SUSFS
 NAME = Petit Gorille
 
 # *DOCUMENTATION*
